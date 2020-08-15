@@ -1,0 +1,7 @@
+Messi,Barcelona
+C.ronaldo,Real Madrid
+Rooney,Manchester
+Rooney2,Manchester
+Arda,Barcelona
+Puyol,Barcelona
+Iniesta,Barcelona
